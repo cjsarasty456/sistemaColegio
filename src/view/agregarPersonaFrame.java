@@ -58,7 +58,7 @@ public class agregarPersonaFrame extends javax.swing.JFrame {
         jLabel4.setText("Edad");
 
         jLabel5.setFont(new java.awt.Font("Segoe UI", 0, 48)); // NOI18N
-        jLabel5.setText("Agregar Persona");
+        jLabel5.setText("hola");
 
         guardarBtn.setText("Guardar");
         guardarBtn.addActionListener(new java.awt.event.ActionListener() {
@@ -97,7 +97,7 @@ public class agregarPersonaFrame extends javax.swing.JFrame {
                         .addComponent(guardarBtn)
                         .addGap(87, 87, 87)
                         .addComponent(limpiarBtn)))
-                .addContainerGap(31, Short.MAX_VALUE))
+                .addContainerGap(106, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
